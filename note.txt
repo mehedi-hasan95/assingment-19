@@ -1,0 +1,5 @@
+I use - aggregate, _avg, _count, _max, _sum in product route
+
+I use groupBy in category route
+
+I use Transactions & Rollback in order route
